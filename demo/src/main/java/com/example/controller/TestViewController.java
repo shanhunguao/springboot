@@ -7,8 +7,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
  * @author zhouhuangfan
  * @data 2019-5-5 0005
  * 测试spingmvc视图
- * 23232323
- *
  */
 @Controller
 public class TestViewController {
